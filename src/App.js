@@ -9,6 +9,8 @@ function App() {
       <p className="text-gray-600 text-center">
         Start building amazing interfaces!
       </p>
+
+      <button class="custom-button">Click Me</button>
     </div>
   );
 }

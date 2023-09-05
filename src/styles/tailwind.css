@@ -3,3 +3,7 @@
 @import "tailwindcss/base";
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
+/* Add your custom styles here */
+.custom-button {
+  @apply bg-blue-500 text-white font-semibold py-2 px-4 rounded;
+}
